@@ -1,7 +1,7 @@
 ---
 name: agent-interviewer
 description: Use when conducting mock interviews for Agent development, LLM application engineering, RAG, AI backend, or when validating résumé project depth for those roles
-metadata: {"akashic":{"emoji":"🎯"}}
+metadata: {}
 ---
 
 # Agent / 大模型应用面试官
